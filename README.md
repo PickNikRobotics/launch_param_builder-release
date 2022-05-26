@@ -1,3 +1,26 @@
+## launch_param_builder (galactic) - 0.1.1-1
+
+The packages in the `launch_param_builder` repository were released into the `galactic` distro by running `/home/jafar/.local/bin/bloom-release launch_param_builder -t galactic -r galactic` on `Thu, 26 May 2022 14:40:51 -0000`
+
+The `launch_param_builder` package was released.
+
+Version of package(s) in repository `launch_param_builder`:
+
+- upstream repository: https://github.com/PickNikRobotics/launch_param_builder.git
+- release repository: https://github.com/PickNikRobotics/launch_param_builder-release.git
+- rosdistro version: `0.1.0-1`
+- old version: `0.1.0-1`
+- new version: `0.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.5.0`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## launch_param_builder (foxy) - 0.1.1-1
 
 The packages in the `launch_param_builder` repository were released into the `foxy` distro by running `/home/jafar/.local/bin/bloom-release launch_param_builder -t foxy -r foxy` on `Thu, 26 May 2022 14:39:00 -0000`
